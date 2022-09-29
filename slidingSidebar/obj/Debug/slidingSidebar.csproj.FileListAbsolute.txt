@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\slidingSidebar\slidingSidebar\bin\Debug\slidingSidebar.exe.config
+C:\Users\ACER\source\repos\slidingSidebar\slidingSidebar\bin\Debug\slidingSidebar.exe
+C:\Users\ACER\source\repos\slidingSidebar\slidingSidebar\bin\Debug\slidingSidebar.pdb
+C:\Users\ACER\source\repos\slidingSidebar\slidingSidebar\obj\Debug\slidingSidebar.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\slidingSidebar\slidingSidebar\obj\Debug\slidingSidebar.Form1.resources
+C:\Users\ACER\source\repos\slidingSidebar\slidingSidebar\obj\Debug\slidingSidebar.Properties.Resources.resources
+C:\Users\ACER\source\repos\slidingSidebar\slidingSidebar\obj\Debug\slidingSidebar.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\slidingSidebar\slidingSidebar\obj\Debug\slidingSidebar.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\slidingSidebar\slidingSidebar\obj\Debug\slidingSidebar.exe
+C:\Users\ACER\source\repos\slidingSidebar\slidingSidebar\obj\Debug\slidingSidebar.pdb

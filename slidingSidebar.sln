@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slidingSidebar", "slidingSidebar\slidingSidebar.csproj", "{C92A0550-1B7C-41AF-8D80-E186041ED3E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C92A0550-1B7C-41AF-8D80-E186041ED3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92A0550-1B7C-41AF-8D80-E186041ED3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92A0550-1B7C-41AF-8D80-E186041ED3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92A0550-1B7C-41AF-8D80-E186041ED3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48424027-3542-438E-99B5-D33C4089CDEF}
+	EndGlobalSection
+EndGlobal
